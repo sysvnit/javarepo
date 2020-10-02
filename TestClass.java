@@ -29,6 +29,7 @@ class TestClass {
                 sum+= c-m-1;
             }
             System.out.println(sum);
+            System.out.println(n+" "+k+" "+c);
             
             
         }
